@@ -1,4 +1,4 @@
-#print('Welcome to python')
+print('Welcome to python')
 
 #checking types
 #print(type('5'))
@@ -21,16 +21,13 @@
 #answer=(-b+(4*a*c)**0.5)/(2*a)
 #print(answer)
 
-from tracemalloc import start
-
-
-time1=6.52*60
-mile1= time1 + 1*8.15
-mile2= 3*7.12
-t2= mile1+mile2/60
-print(t2)
-answer=t2-time1
-print(answer)
+#time1=6.52*60
+#mile1= time1 + 1*8.15
+#mile2= 3*7.12
+#t2= mile1+mile2/60
+#print(t2)
+#answer=t2-time1
+#print(answer)
 
 time1a=6.52*60
 mile1a= time1a + 1*8.15*60
